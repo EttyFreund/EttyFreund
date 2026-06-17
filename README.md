@@ -24,7 +24,7 @@ A detail-oriented and analytical **Full Stack Software Developer** with a solid 
 ---
 
 ###  Education & Certifications
-* **Practical Software Engineer (הנדסאי תוכנה)** – MAHAT & Technological College (2024 - 2026)
+* **Practical Software Engineer Degree** – MAHAT & Technological College (2024 - 2026)
 * **Advanced Computer Science Training** – KamaTech Program (2024 - 2026)
   * *Advanced coursework:* Algorithms, Data Structures, Linux OS, Discrete Mathematics, Linear Algebra, Computer Organization, and low-level development.
 ---
