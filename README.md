@@ -1,4 +1,4 @@
-# Hi 👋, I'm Etty Freund
+# Hi, I'm Etty Freund
 
 A detail-oriented and analytical **Full Stack Software Developer** with a solid foundation in software engineering principles, algorithms, and complex data structures. Passionate about creating efficient backend architectures, crafting clean user interfaces, and implementing innovative AI-driven tools.
 
