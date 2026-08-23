@@ -7,19 +7,19 @@ A detail-oriented and analytical **Full Stack Software Developer** with a solid 
 ###  Technical Skills
 
 ####  Programming Languages
-`C` • `C++` • `C#` • `Java` • `Python` • `Assembly (MIPS)`
+`Python` • `Java`• `C` • `C++` • `C#`  • `Assembly (MIPS)`
 
 ####  Web Development & Frameworks
-`React` • `Angular` • `Node.js` • `TypeScript` • `JavaScript` • `HTML5` • `CSS3` • `Bootstrap`
+`React` • `React Native` • `Angular` • `Node.js` • `TypeScript` • `JavaScript` • `HTML5` • `CSS3` • `Bootstrap` •  `REST APIs`
 
 ####  Databases & Storage
-`SQL Server` • `MongoDB (NoSQL)`
+`SQL Server` • `MongoDB (NoSQL)` • `SQLite`
 
 ####  Tools, DevOps & Methodologies
-`Git & GitHub` • `Docker` • `Design Patterns` • `OOP` • `System Analysis` • `Linux` • `Windows`
+`Git & GitHub` • `Docker` •  `CI/CD` • `Design Patterns` • `OOP` • `System Analysis` • `Linux` • `Windows` • 
 
-####  AI Development Tools
-`Cursor` • `Amazon Q` • `Devin` • `Continue` • `DALL-E 3`
+####  AI Development Tools 
+`Cursor` • `Amazon Q` • `Devin` • `Continue` • `DALL-E 3` • `Claude Code`
 
 ---
 
@@ -33,3 +33,5 @@ A detail-oriented and analytical **Full Stack Software Developer** with a solid 
 
 * **Email:** etty5641@gmail.com
 * **Phone:** 054-8545641
+**LinkedIn:** https://www.linkedin.com/in/etty-freund/
+
