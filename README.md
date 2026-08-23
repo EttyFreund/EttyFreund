@@ -33,5 +33,5 @@ A detail-oriented and analytical **Full Stack Software Developer** with a solid 
 
 * **Email:** etty5641@gmail.com
 * **Phone:** 054-8545641
-* **LinkedIn:** https://www.linkedin.com/in/etty-freund/
+* **[LinkedIn](https://www.linkedin.com/in/etty-freund/)**
 
